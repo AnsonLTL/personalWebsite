@@ -1,0 +1,50 @@
+body {
+   background-color: #F7F7F7;
+}
+header {
+   background-color: black;
+   color: white;
+   text-align: center;
+   padding: 20px 0px;
+}
+nav {
+   background-color: #DDDDDD;
+   height: 510px;
+   float: left;
+}
+section {
+   float: left;
+   padding: 5px 0px 0px 15px;
+}
+footer {
+   background-color: black;
+   color: white;
+   text-align: center;
+   clear: both;
+   padding: 1px 0px;
+}
+h1 {
+   margin: 0px;
+}
+
+nav ul#menu {
+   text-align: right;
+   padding: 0px;
+   list-style: none;
+}
+nav ul#menu li a {
+   color: black;
+   padding: 10px 20px;
+   text-decoration: none;
+   border-radius: 14px 0px 0px 14px;
+}
+nav ul#menu li a#selected {
+   background-color: #F7F7F7;
+}
+nav ul#menu li a:hover {
+   background-color: #D3D3D3;
+}
+.TACenter {
+   text-align:center;
+}
+
